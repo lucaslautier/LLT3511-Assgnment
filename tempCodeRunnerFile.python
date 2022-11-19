@@ -1,0 +1,7 @@
+stats = []
+
+t1 = [12,34,54]
+t2 = [76, 98, 67]
+
+stats.append(t1)
+print(stats)
